@@ -67,5 +67,5 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * [promptbase](https://promptbase.com/)
 
 # People
-* [Ian Hogarth]
+* [Ian Hogarth](https://www.ianhogarth.com/about)
 * 
