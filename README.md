@@ -35,8 +35,8 @@ Resources I have found useful in my journey
 * [cohere](https://cohere.com/)
 
 # Democratizaters
-*[baseten](https://www.baseten.co/about)
-*[huggingface](https://huggingface.co/)
+* [baseten](https://www.baseten.co/about)
+* [huggingface](https://huggingface.co/)
 
 # Reports / news
 * [Dont worry about the Vase](https://thezvi.wordpress.com/) also author of [lesswrong](https://www.lesswrong.com/)
