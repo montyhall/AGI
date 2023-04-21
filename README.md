@@ -2,9 +2,11 @@
 
 Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 
-# LLM models
+# LLM models (see [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia)
+* [Bloom](https://huggingface.co/bigscience/bloom)
 * [llama](https://github.com/facebookresearch/llama)[Form to fill in to get access to the weights](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
 * [redpajama](https://www.together.xyz/blog/redpajama)
+* [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
 # Fine Tuning / Adapters
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
@@ -56,7 +58,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 * [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf)
 * [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (2023)
-
+* [What Language Model to Train if You Have One Million GPU Hours?](https://arxiv.org/abs/2210.15424)(2022)
 
 # NLP Courses
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
