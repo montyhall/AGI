@@ -1,13 +1,13 @@
 # AGI
 
-Resources I have found useful in my journey
+Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 
 # LLM models
-* [llama](https://github.com/facebookresearch/llama)
+* [llama](https://github.com/facebookresearch/llama)[Form to fill in to get access to the weights](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
 * [redpajama](https://www.together.xyz/blog/redpajama)
 
-
 # Fine Tuning / Adapters
+* [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 * [PEFT](https://github.com/huggingface/peft)
 * [stackllama](https://huggingface.co/blog/stackllama)
 * [koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)
@@ -22,13 +22,18 @@ Resources I have found useful in my journey
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 
 # Vector DBs
+* [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
 * [Pinecone](https://www.pinecone.io/)
 * [Vectera](https://vectara.com/)
 * [Weaviate](https://weaviate.io/)
 
+# Backends
+* [modal](https://modal.com/)
+
 # General Resources
 * [reentry](https://rentry.org/localmodelslinks)
+* [Distributed AI Research Institute](https://www.dair-institute.org/)
 
 # Companies
 * [startups @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
@@ -50,6 +55,15 @@ Resources I have found useful in my journey
 * [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)(2023)
 * [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 * [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf)
+* [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (2023)
+
+
+# NLP Courses
+* [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
 
 # Prompt
 * [promptbase](https://promptbase.com/)
+
+# People
+* [Ian Hogarth]
+* 
