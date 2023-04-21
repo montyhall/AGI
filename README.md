@@ -4,8 +4,8 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 # LLM models (see [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia)
 * [Bloom](https://huggingface.co/bigscience/bloom)
-* [llama](https://github.com/facebookresearch/llama) [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
-* [redpajama](https://www.together.xyz/blog/redpajama) to fill in to get access to the weights]
+* [llama](https://github.com/facebookresearch/llama) [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to fill in to get access to the weights
+* [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
 # Fine Tuning / Adapters
