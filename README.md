@@ -6,7 +6,8 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 
 
-# LLM models (see [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia)
+# LLM models 
+(see [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia)
 * [Bloom](https://huggingface.co/bigscience/bloom)
 * [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights
 * [redpajama](https://www.together.xyz/blog/redpajama) 
