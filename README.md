@@ -7,7 +7,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 
 # LLM models 
-(see [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia)
+See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Bloom](https://huggingface.co/bigscience/bloom)
 * [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights
 * [redpajama](https://www.together.xyz/blog/redpajama) 
