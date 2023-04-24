@@ -9,16 +9,20 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 # LLM models 
 See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Bloom](https://huggingface.co/bigscience/bloom)
+  * [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
+  * [Petals](https://github.com/bigscience-workshop/petals)
 * [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights
 * [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
 # Fine Tuning / Adapters
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+* [gpt4all](https://github.com/nomic-ai/gpt4all)
 * [PEFT](https://github.com/huggingface/peft)
 * [stackllama](https://huggingface.co/blog/stackllama)
 * [koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)
 * [LLaMa-Adapter](https://github.com/zrrskywalker/llama-adapter)
+* [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 * [vicuna](https://vicuna.lmsys.org/)
 
 # Tools
