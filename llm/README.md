@@ -82,7 +82,8 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [THE AI INDEX REPORT](https://aiindex.stanford.edu/report/)
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
-# Papers (by no means complete)
+# ${\color{lightseagreen}(Key) Papers}$
+
 * [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) (2023)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
 * [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)[code](https://github.com/booydar/t5-experiments/tree/scaling-report) (2023)
@@ -100,14 +101,14 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Language Models are Few-Shot Learners GPT3](https://arxiv.org/pdf/2005.14165.pdf) (2020)
 * [Language Models are Unsupervised Multitask Learners GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
 
-# NLP Courses
+# ${\color{lightseagreen}NLP Courses}$
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
 
-# Prompt
+# ${\color{lightseagreen}Prompt}$
 * [promptbase](https://promptbase.com/)
 
-# People
+# ${\color{lightseagreen}People}$
 
 From researchers that showed us how to embed words ([Tomáš Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en)) to attention models, to transformers, BERT and finally to GPT and Foundational models.
 
