@@ -34,6 +34,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * pytorch tutorials:
   - [Understanding PEFT of LLMs: From Prefix Tuning to LLaMA-Adapters](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
   - [PEFT with Lora](https://lightning.ai/pages/community/tutorial/lora-llm/)
+  - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)
 
 ## Learning the objective function
