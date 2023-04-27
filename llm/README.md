@@ -2,13 +2,12 @@
 
 Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 
-# <span style="color:lightseagreen"> Data </span>
 # ${\color{lightseagreen}Data}$
 
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 
+# ${\color{lightseagreen}LLM models}$
 
-# LLM models 
 See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Bloom](https://huggingface.co/bigscience/bloom)
   - [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
@@ -18,7 +17,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
-# Fine Tuning
+# ${\color{lightseagreen}Fine Tuning}$
 
 [Hyung Won Chung](https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=en) in a talk recently at NYU nicely distinguished between fine tuning using MLE (what most people refer to as fine tuning -- a supervised learning task, or behavioral cloning in the language of RL) from learning the learning objective (RLHF). 
 
@@ -42,21 +41,22 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 ## Learning the objective function
 * [stackllama](https://huggingface.co/blog/stackllama)
 
-# Tools
+# ${\color{lightseagreen}Tools}$
 * [dalai](https://github.com/cocktailpeanut/dalai)
 * [FUTUREPEDIA](https://www.futurepedia.io/)AI Tools dir updated daily
 * [langchain](https://python.langchain.com/en/latest/)
 * [llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html)
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 
-# Vector DBs
+# ${\color{lightseagreen}Vector DBs}$
+
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
 * [Pinecone](https://www.pinecone.io/)
 * [Vectera](https://vectara.com/)
 * [Weaviate](https://weaviate.io/)
 
-# Backends
+# ${\color{lightseagreen}Backends}$
 * [deepspeed](https://github.com/microsoft/DeepSpeed)
 * [ray](https://www.ray.io/)
 * [modal](https://modal.com/)
@@ -64,20 +64,20 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
   - [comparisons](https://sebastianraschka.com/blog/2023/pytorch-faster.html) (pytorch, mixed precision, static graphs, deepspeed, fabric)
   - [Train 1T+ Model parameters](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html)
 
-# General Resources
+# ${\color{lightseagreen}General Resources}$
 * [reentry](https://rentry.org/localmodelslinks)
 * [Distributed AI Research Institute](https://www.dair-institute.org/)
 
-# Companies
+# ${\color{lightseagreen}Companies}$
 * [startups @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
 * [cohere](https://cohere.com/)
 
-# Democratizaters
+# ${\color{lightseagreen}Democratizaters}$
 * [baseten](https://www.baseten.co/about)
 * [huggingface](https://huggingface.co/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
 
-# Reports / news
+# ${\color{lightseagreen}Reports / news}$
 * [Dont worry about the Vase](https://thezvi.wordpress.com/) also author of [lesswrong](https://www.lesswrong.com/)
 * [THE AI INDEX REPORT](https://aiindex.stanford.edu/report/)
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
