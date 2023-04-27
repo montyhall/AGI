@@ -3,7 +3,7 @@
 Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 
 # <span style="color:lightseagreen"> Data </span>
-# ${\color{lightseagreen}Data}$$
+# ${\color{lightseagreen}Data}$
 
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 
