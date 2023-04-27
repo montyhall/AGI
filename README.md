@@ -27,6 +27,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * pytorch tutorials:
   - [Understanding PEFT of LLMs: From Prefix Tuning to LLaMA-Adapters](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
   - [PEFT with Lora](https://lightning.ai/pages/community/tutorial/lora-llm/)
+* [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)
 
 # Tools
 * [dalai](https://github.com/cocktailpeanut/dalai)
@@ -68,6 +69,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [THE AI INDEX REPORT](https://aiindex.stanford.edu/report/)
 
 # Papers (by no means complete)
+* [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
 * [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)[code](https://github.com/booydar/t5-experiments/tree/scaling-report) (2023)
 * [Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning](https://arxiv.org/pdf/2211.04325.pdf)(2022)
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)(2022)
