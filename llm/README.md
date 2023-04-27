@@ -16,14 +16,17 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
-# Fine Tuning / Adapters
+# Fine Tuning
+
+[Hyung Won Chung](https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=en) in a talk recently at NYU nicely distinguished between fine tuning using MLE (what most people refer to as fine tuning -- a supervised learning task, or behavioral cloning in the language of RL) from learning the learning objective (RLHF). 
+
+## Supervised Learning
 
 [Good overview](https://lightning.ai/pages/community/article/understanding-llama-adapters/) of Fine tuning strategies by pytorch lightening.
 
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 * [gpt4all](https://github.com/nomic-ai/gpt4all)
 * [PEFT](https://github.com/huggingface/peft)
-* [stackllama](https://huggingface.co/blog/stackllama)
 * [koala](https://bair.berkeley.edu/blog/2023/04/03/koala/)
 * [LLaMa-Adapter](https://github.com/zrrskywalker/llama-adapter)
 * [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
@@ -32,6 +35,9 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
   - [Understanding PEFT of LLMs: From Prefix Tuning to LLaMA-Adapters](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
   - [PEFT with Lora](https://lightning.ai/pages/community/tutorial/lora-llm/)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)
+
+## Learning the objective function
+* [stackllama](https://huggingface.co/blog/stackllama)
 
 # Tools
 * [dalai](https://github.com/cocktailpeanut/dalai)
@@ -88,7 +94,8 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [What Language Model to Train if You Have One Million GPU Hours?](https://arxiv.org/abs/2210.15424)(2022)
 * [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) (2021)
 * [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751) (2019)
-* [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
+* [Language Models are Few-Shot Learners GPT3](https://arxiv.org/pdf/2005.14165.pdf) (2020)
+* [Language Models are Unsupervised Multitask Learners GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
 
 # NLP Courses
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
@@ -98,9 +105,13 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [promptbase](https://promptbase.com/)
 
 # People
+
+From researchers that showed us how to embed words ([Tomáš Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en)) to attention models, to transformers, BERT and finally to GPT and Foundational models.
+
 * [Alec Radford](https://scholar.google.com/citations?user=dOad5HoAAAAJ&hl=en)
 * [Ashish Vaswani](https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en)
 * [Jacob Devlin](https://www.semanticscholar.org/author/Jacob-Devlin/39172707)
+* [Hyung Won Chung](https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=en)
 * [Ian Hogarth](https://www.ianhogarth.com/about)
 * [Ilya Sutskever](https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en)
 * [Percy Liang](https://cs.stanford.edu/~pliang/)
