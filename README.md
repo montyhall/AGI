@@ -85,6 +85,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [What Language Model to Train if You Have One Million GPU Hours?](https://arxiv.org/abs/2210.15424)(2022)
 * [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) (2021)
 * [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751) (2019)
+* [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
 
 # NLP Courses
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
@@ -94,7 +95,11 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [promptbase](https://promptbase.com/)
 
 # People
-* [Percy Liang](https://cs.stanford.edu/~pliang/)
+* [Alec Radford](https://scholar.google.com/citations?user=dOad5HoAAAAJ&hl=en)
+* [Ashish Vaswani](https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en)
+* [Jacob Devlin](https://www.semanticscholar.org/author/Jacob-Devlin/39172707)
 * [Ian Hogarth](https://www.ianhogarth.com/about)
-* 
+* [Ilya Sutskever](https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en)
+* [Percy Liang](https://cs.stanford.edu/~pliang/)
+* [Tomáš Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en)
 
