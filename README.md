@@ -24,6 +24,9 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [LLaMa-Adapter](https://github.com/zrrskywalker/llama-adapter)
 * [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 * [vicuna](https://vicuna.lmsys.org/)
+* pytorch tutorials:
+  - [Understanding PEFT of LLMs: From Prefix Tuning to LLaMA-Adapters](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
+  - [PEFT with Lora](https://lightning.ai/pages/community/tutorial/lora-llm/)
 
 # Tools
 * [dalai](https://github.com/cocktailpeanut/dalai)
@@ -43,6 +46,9 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [deepspeed](https://github.com/microsoft/DeepSpeed)
 * [ray](https://www.ray.io/)
 * [modal](https://modal.com/)
+* pytorch-lightening
+  - [comparisons](https://sebastianraschka.com/blog/2023/pytorch-faster.html) (pytorch, mixed precision, static graphs, deepspeed, fabric)
+  - [Train 1T+ Model parameters](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html)
 
 # General Resources
 * [reentry](https://rentry.org/localmodelslinks)
