@@ -55,6 +55,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 # Democratizaters
 * [baseten](https://www.baseten.co/about)
 * [huggingface](https://huggingface.co/)
+* [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
 
 # Reports / news
 * [Dont worry about the Vase](https://thezvi.wordpress.com/) also author of [lesswrong](https://www.lesswrong.com/)
@@ -70,8 +71,6 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf)
 * [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (2023)
 * [What Language Model to Train if You Have One Million GPU Hours?](https://arxiv.org/abs/2210.15424)(2022)
-* [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)(2022)
-* [Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning](https://arxiv.org/pdf/2211.04325.pdf) (2022)
 
 # NLP Courses
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
