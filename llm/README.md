@@ -4,7 +4,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 # <span style="color:lightseagreen"> Data </span>
 
-<span style="color:blue">Data</span>.
+<h2 style="color:lightseagreen;">Data</h2>
 
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 
