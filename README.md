@@ -17,6 +17,9 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
 # Fine Tuning / Adapters
+
+[Good overview](https://lightning.ai/pages/community/article/understanding-llama-adapters/) of Fine tuning strategies by pytorch lightening.
+
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 * [gpt4all](https://github.com/nomic-ai/gpt4all)
 * [PEFT](https://github.com/huggingface/peft)
