@@ -41,7 +41,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 ### Learning the objective function
 * [stackllama](https://huggingface.co/blog/stackllama)
 
-# ${\color{lightseagreen}Tools}$
+## Tools
 * [dalai](https://github.com/cocktailpeanut/dalai)
 * [FUTUREPEDIA](https://www.futurepedia.io/)AI Tools dir updated daily
 * [langchain](https://python.langchain.com/en/latest/)
