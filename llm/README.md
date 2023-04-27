@@ -6,7 +6,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 
-# ${\color{lightseagreen}LLM \: models}$
+# ${\color{lightseagreen}LLM \thinspace models}$
 
 See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Bloom](https://huggingface.co/bigscience/bloom)
