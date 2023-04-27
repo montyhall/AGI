@@ -2,11 +2,11 @@
 
 Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 
-# Data
+## Data
 
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 
-# LLM models
+## LLM models
 
 See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Bloom](https://huggingface.co/bigscience/bloom)
@@ -17,11 +17,11 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
-# Fine Tuning
+## Fine Tuning
 
 [Hyung Won Chung](https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=en) in a talk recently at NYU nicely distinguished between fine tuning using MLE (what most people refer to as fine tuning -- a supervised learning task, or behavioral cloning in the language of RL) from learning the learning objective (RLHF). 
 
-## Supervised Learning
+### Supervised Learning
 
 [Good overview](https://lightning.ai/pages/community/article/understanding-llama-adapters/) of Fine tuning strategies by pytorch lightening. For a more research overview see paper: [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)
 
@@ -38,7 +38,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
   - [Finetuning LLMs on a Single GPU Using Gradient Accumulation](https://lightning.ai/pages/blog/gradient-accumulation/)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)
 
-## Learning the objective function
+### Learning the objective function
 * [stackllama](https://huggingface.co/blog/stackllama)
 
 # ${\color{lightseagreen}Tools}$
@@ -48,7 +48,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html)
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 
-# Vector DBs
+## Vector DBs
 
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
@@ -56,7 +56,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Vectera](https://vectara.com/)
 * [Weaviate](https://weaviate.io/)
 
-# Backends
+## Backends
 * [deepspeed](https://github.com/microsoft/DeepSpeed)
 * [ray](https://www.ray.io/)
 * [modal](https://modal.com/)
@@ -64,25 +64,25 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
   - [comparisons](https://sebastianraschka.com/blog/2023/pytorch-faster.html) (pytorch, mixed precision, static graphs, deepspeed, fabric)
   - [Train 1T+ Model parameters](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html)
 
-# General Resources
+## General Resources
 * [reentry](https://rentry.org/localmodelslinks)
 * [Distributed AI Research Institute](https://www.dair-institute.org/)
 
-# Companies
+## Companies
 * [startups @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
 * [cohere](https://cohere.com/)
 
-# Democratizaters
+## Democratizaters
 * [baseten](https://www.baseten.co/about)
 * [huggingface](https://huggingface.co/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
 
-# Reports / news
+## Reports / news
 * [Dont worry about the Vase](https://thezvi.wordpress.com/) also author of [lesswrong](https://www.lesswrong.com/)
 * [THE AI INDEX REPORT](https://aiindex.stanford.edu/report/)
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
-# (Key) Papers
+## (Key) Papers
 
 * [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) (2023)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
@@ -101,14 +101,14 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Language Models are Few-Shot Learners GPT3](https://arxiv.org/pdf/2005.14165.pdf) (2020)
 * [Language Models are Unsupervised Multitask Learners GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
 
-# NLP Courses
+## NLP Courses
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
 
-# Prompt
+## Prompt
 * [promptbase](https://promptbase.com/)
 
-# People
+## People
 
 From researchers that showed us how to embed words ([Tomáš Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en)) to attention models, to transformers, BERT and finally to GPT and Foundational models.
 
