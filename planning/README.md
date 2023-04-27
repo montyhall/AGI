@@ -1,6 +1,8 @@
 # Sequential Decision Making
 
-# Tools
+# `#0969DA` Tools
+
+tools
 
 # General Resources
 
