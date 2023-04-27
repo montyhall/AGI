@@ -22,7 +22,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 
 ## Supervised Learning
 
-[Good overview](https://lightning.ai/pages/community/article/understanding-llama-adapters/) of Fine tuning strategies by pytorch lightening.
+[Good overview](https://lightning.ai/pages/community/article/understanding-llama-adapters/) of Fine tuning strategies by pytorch lightening. For a more research overview see paper: [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)
 
 * [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 * [gpt4all](https://github.com/nomic-ai/gpt4all)
