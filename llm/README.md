@@ -17,7 +17,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
-# ${\color{lightseagreen}Fine \: Tuning}$
+# ${\color{lightseagreen}Fine \thinspace Tuning}$
 
 [Hyung Won Chung](https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=en) in a talk recently at NYU nicely distinguished between fine tuning using MLE (what most people refer to as fine tuning -- a supervised learning task, or behavioral cloning in the language of RL) from learning the learning objective (RLHF). 
 
@@ -48,7 +48,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html)
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 
-# ${\color{lightseagreen}Vector \: DBs}$
+# ${\color{lightseagreen}Vector \thinspace DBs}$
 
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
@@ -64,7 +64,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
   - [comparisons](https://sebastianraschka.com/blog/2023/pytorch-faster.html) (pytorch, mixed precision, static graphs, deepspeed, fabric)
   - [Train 1T+ Model parameters](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html)
 
-# ${\color{lightseagreen}General \: Resources}$
+# ${\color{lightseagreen}General \thinspace Resources}$
 * [reentry](https://rentry.org/localmodelslinks)
 * [Distributed AI Research Institute](https://www.dair-institute.org/)
 
@@ -77,12 +77,12 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [huggingface](https://huggingface.co/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
 
-# ${\color{lightseagreen}Reports \: /\: news}$
+# ${\color{lightseagreen}Reports \thinspace /\thinspace news}$
 * [Dont worry about the Vase](https://thezvi.wordpress.com/) also author of [lesswrong](https://www.lesswrong.com/)
 * [THE AI INDEX REPORT](https://aiindex.stanford.edu/report/)
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
-# ${\color{lightseagreen}(Key) \: Papers}$
+# ${\color{lightseagreen}(Key) \thinspace Papers}$
 
 * [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) (2023)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
@@ -101,7 +101,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Language Models are Few-Shot Learners GPT3](https://arxiv.org/pdf/2005.14165.pdf) (2020)
 * [Language Models are Unsupervised Multitask Learners GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
 
-# ${\color{lightseagreen}NLP \: Courses}$
+# ${\color{lightseagreen}NLP \thinspace Courses}$
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
 
