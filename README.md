@@ -67,6 +67,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 # Reports / news
 * [Dont worry about the Vase](https://thezvi.wordpress.com/) also author of [lesswrong](https://www.lesswrong.com/)
 * [THE AI INDEX REPORT](https://aiindex.stanford.edu/report/)
+* [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 # Papers (by no means complete)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
@@ -80,13 +81,17 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf)
 * [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (2023)
 * [What Language Model to Train if You Have One Million GPU Hours?](https://arxiv.org/abs/2210.15424)(2022)
+* [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) (2021)
 
 # NLP Courses
+* [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
 
 # Prompt
 * [promptbase](https://promptbase.com/)
 
 # People
+* [Percy Liang](https://cs.stanford.edu/~pliang/)
 * [Ian Hogarth](https://www.ianhogarth.com/about)
 * 
+
