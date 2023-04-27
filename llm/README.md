@@ -1,4 +1,4 @@
-# AGI
+# Large Language Models
 
 Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence)
 
