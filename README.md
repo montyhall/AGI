@@ -62,6 +62,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [THE AI INDEX REPORT](https://aiindex.stanford.edu/report/)
 
 # Papers (by no means complete)
+* [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)[code](https://github.com/booydar/t5-experiments/tree/scaling-report) (2023)
 * [Will we run out of data? An analysis of the limits of scaling datasets in Machine Learning](https://arxiv.org/pdf/2211.04325.pdf)(2022)
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)(2022)
 * [SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions](https://arxiv.org/pdf/2212.10560.pdf)
