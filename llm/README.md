@@ -85,6 +85,8 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 ## Democratizaters
 * [baseten](https://www.baseten.co/about)
 * [huggingface](https://huggingface.co/)
+* [Replicate](https://replicate.com/)
+* [Runwayml](https://runwayml.com/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
 
 ## Reports / news
