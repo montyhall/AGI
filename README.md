@@ -6,5 +6,5 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * [Large Language Models (LLM)](llm/README.md)
 * Vision Foundation Models (To come)
 * Multimodal Foundation Models (To come)
-* [Planning + LLM](planning/README.md)
+* [RL + Foundational Models](planning/README.md)
 
