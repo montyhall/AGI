@@ -60,7 +60,6 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 
 ## Vector DBs
-
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
 * [Pinecone](https://www.pinecone.io/)
@@ -94,7 +93,6 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 ## (Key) Papers
-
 * [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) (2023)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
 * [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)[code](https://github.com/booydar/t5-experiments/tree/scaling-report) (2023)
@@ -117,11 +115,12 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712v2.pdf) (2023)
 
 ## NLP Courses
-* [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
+* [Stanford's CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
 
 ## Prompt
 * [promptbase](https://promptbase.com/)
+* [shareGPT](https://sharegpt.com/)
 
 ## People
 
