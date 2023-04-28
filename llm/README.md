@@ -6,7 +6,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 
 <!-- ![Alt Text](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif) -->
-<img src="https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif" width="40" height="40" />
+<img src="https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif" width="120" height="120" />
 
 ## Data
 
