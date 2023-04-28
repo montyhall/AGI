@@ -5,10 +5,8 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
 
 
-![Alt Text](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif)
-
-
-
+<!-- ![Alt Text](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif) -->
+<img src="https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif" width="40" height="40" />
 
 ## Data
 
@@ -113,6 +111,9 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751) (2019)
 * [Language Models are Few-Shot Learners GPT3](https://arxiv.org/pdf/2005.14165.pdf) (2020)
 * [Language Models are Unsupervised Multitask Learners GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
+
+### Surveys
+* [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712v2.pdf) (2023)
 
 ## NLP Courses
 * [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
