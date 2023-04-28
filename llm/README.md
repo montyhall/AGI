@@ -109,6 +109,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [What Language Model to Train if You Have One Million GPU Hours?](https://arxiv.org/abs/2210.15424)(2022)
 * [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) (2021)
 * [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751) (2019)
+* [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf) (2020)
 * [Language Models are Few-Shot Learners GPT3](https://arxiv.org/pdf/2005.14165.pdf) (2020)
 * [Language Models are Unsupervised Multitask Learners GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
 
@@ -124,10 +125,11 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 
 ## People
 
-From researchers that showed us how to embed words ([Tomáš Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en)) to attention models, to transformers, BERT and finally to GPT and Foundational models.
+From researchers that showed us how to embed words ([Tomáš Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en)) to attention models, to transformers, BERT, Text to Text, and finally to GPT and Foundational models.
 
 * [Alec Radford](https://scholar.google.com/citations?user=dOad5HoAAAAJ&hl=en)
 * [Ashish Vaswani](https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en)
+* [Colin Raffel](https://scholar.google.com/citations?user=I66ZBYwAAAAJ&hl=en)
 * [Jacob Devlin](https://www.semanticscholar.org/author/Jacob-Devlin/39172707)
 * [Hyung Won Chung](https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=en)
 * [Ian Hogarth](https://www.ianhogarth.com/about)
