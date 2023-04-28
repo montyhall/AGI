@@ -41,6 +41,11 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 ### Learning the objective function
 * [stackllama](https://huggingface.co/blog/stackllama)
 
+# Compositional
+* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
+* [Chameleon](https://github.com/lupantech/chameleon-llm)
+* [HuggingGPT](https://github.com/microsoft/JARVIS)
+
 ## Tools
 * [dalai](https://github.com/cocktailpeanut/dalai)
 * [FUTUREPEDIA](https://www.futurepedia.io/)AI Tools dir updated daily
@@ -120,4 +125,8 @@ From researchers that showed us how to embed words ([Tomáš Mikolov](https://sc
 * [Ilya Sutskever](https://scholar.google.com/citations?user=x04W_mMAAAAJ&hl=en)
 * [Percy Liang](https://cs.stanford.edu/~pliang/)
 * [Tomáš Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en)
+
+## VCs
+* [AGI blog @ a16z](https://a16z.com/tag/generative-ai/)
+* [Sequoia](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/?itm_medium=related-content&itm_source=sequoiacap.com)
 
