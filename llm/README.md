@@ -3,7 +3,6 @@
 <!-- ![Alt Text](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif) -->
 <img src="https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif" width="900" height="500" />
 
-
 Some other overviews:
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
 
