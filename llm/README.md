@@ -1,6 +1,6 @@
 # Large Language Models
 
-Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/memes/shoggoth-with-smiley-face-artificial-intelligence). Some other overviews:
+Some other overviews:
 
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
 
