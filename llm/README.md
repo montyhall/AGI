@@ -118,6 +118,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 ## NLP Courses
 * [Stanford's CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
+* [Ashish Vaswani's lecture on AIAYN @ Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=5vcj8kSwBCY) (2019)
 
 ## Prompt
 * [promptbase](https://promptbase.com/)
