@@ -5,7 +5,8 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
 
 
-![Alt Text]((https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif)
+![Alt Text](https://github.com/Mooler0410/LLMsPracticalGuide/blob/main/imgs/survey-gif-test.gif)
+
 
 
 
