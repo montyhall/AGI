@@ -83,6 +83,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 ## Democratizaters
 * [baseten](https://www.baseten.co/about)
 * [huggingface](https://huggingface.co/)
+* [Databrick's Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)[models on HF](https://huggingface.co/databricks)
 * [Replicate](https://replicate.com/)
 * [Runwayml](https://runwayml.com/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
