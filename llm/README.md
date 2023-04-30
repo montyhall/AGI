@@ -60,6 +60,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 ## Vector DBs
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
+* [Milvus](https://milvus.io/)
 * [Pinecone](https://www.pinecone.io/)
 * [Vectera](https://vectara.com/)
 * [Weaviate](https://weaviate.io/)
