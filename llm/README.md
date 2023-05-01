@@ -16,7 +16,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Bloom](https://huggingface.co/bigscience/bloom)
   - [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [Petals](https://github.com/bigscience-workshop/petals)
-* [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights
+* [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights. [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
 * [lit-llama](https://github.com/Lightning-AI/lit-llama) Independent implementation of LLaMA that is fully open source under the Apache 2.0 license.
 * [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
