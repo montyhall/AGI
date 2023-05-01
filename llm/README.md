@@ -61,7 +61,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
 * [Milvus](https://milvus.io/)
-* [Pinecone](https://www.pinecone.io/) <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji>
+* [Pinecone](https://www.pinecone.io/) <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> 2023-05-01 [Pinecone drops $100M investment on $750M valuation](https://techcrunch.com/2023/04/27/pinecone-drops-100m-investment-on-750m-valuation-as-vector-database-demand-grows/?utm_source=tldrfounders)
 * [Vectera](https://vectara.com/)
 * [Weaviate](https://weaviate.io/)
 
