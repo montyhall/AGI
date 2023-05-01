@@ -12,7 +12,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 # Market
 
-* <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> 2023-04-10 Pitchbook Artificial Intelligence & Machine Learning Overview
+<g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> 2023-04-10 Pitchbook * Artificial Intelligence & Machine Learning Overview *
 ```
 We estimate the AI & machine learning (ML) market reached $197.5 billion in end user spending
 in 2022, led by the vertical applications segment, along with significant contributions from
