@@ -61,7 +61,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
 * [Milvus](https://milvus.io/)
-* [Pinecone](https://www.pinecone.io/)
+* [Pinecone](https://www.pinecone.io/) <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji>
 * [Vectera](https://vectara.com/)
 * [Weaviate](https://weaviate.io/)
 
