@@ -8,7 +8,9 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * Multimodal Foundation Models (To come)
 * [RL + Foundational Models](planning/README.md)
 
+# Macro views
 
+* [Stanford's HELM](https://crfm.stanford.edu/helm/latest/) Holistic Evaluation of Language Models (HELM) is a living benchmark that aims to improve the transparency of language models.
 
 # Market
 
