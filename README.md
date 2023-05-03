@@ -10,7 +10,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 # Macro views
 
-* [Stanford's HELM](https://crfm.stanford.edu/helm/latest/) Holistic Evaluation of Language Models (HELM) is a living benchmark that aims to improve the transparency of language models.
+* [Stanford's HELM](https://crfm.stanford.edu/helm/latest/) Holistic Evaluation of Language Models (HELM) is a living benchmark that aims to improve the transparency of language models. [paper](https://arxiv.org/pdf/2211.09110.pdf)
 
 # Market
 
