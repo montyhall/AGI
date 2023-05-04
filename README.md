@@ -15,6 +15,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 # News
 
 <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> 2023-05-01:  Huggingface [releases](https://huggingface.co/chat/) open source version of chatGPT 
+
 <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> 2023-05-01:  LinkedIn And DeepMind’s Co-Founders Launch ChatGPT Rival [Pi](https://heypi.com/talk) With Higher Emotional Intelligence 
 
 # Market
