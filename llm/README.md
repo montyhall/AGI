@@ -12,7 +12,7 @@ Some other overviews:
 
 ## LLM models
 
-See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia
+See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Another [here](https://www.wellthapp.com/team/matt-loper)
 * [Bloom](https://huggingface.co/bigscience/bloom)
   - [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [Petals](https://github.com/bigscience-workshop/petals)
