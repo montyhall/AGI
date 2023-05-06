@@ -92,6 +92,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [Replicate](https://replicate.com/)
 * [Runwayml](https://runwayml.com/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
+* [Together](https://www.together.xyz/)
 
 ## Reports / news
 * [Dont worry about the Vase](https://thezvi.wordpress.com/) also author of [lesswrong](https://www.lesswrong.com/)
