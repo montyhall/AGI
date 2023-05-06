@@ -12,7 +12,7 @@ Some other overviews:
 
 ## LLM models
 
-See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Another [here](https://www.wellthapp.com/team/matt-loper)
+See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Another [here](https://github.com/Hannibal046/Awesome-LLM)
 * [Bloom](https://huggingface.co/bigscience/bloom)
   - [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [Petals](https://github.com/bigscience-workshop/petals)
@@ -22,6 +22,8 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [redpajama](https://www.together.xyz/blog/redpajama) 
 * [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
+
+See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM models
 
 ## Fine Tuning
 
