@@ -20,8 +20,8 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [lit-llama](https://github.com/Lightning-AI/lit-llama) Independent implementation of LLaMA that is fully open source under the Apache 2.0 license.
 * [MosaicML's MPT](https://github.com/mosaicml/llm-foundry) Apache-2.0 license [blog](https://www.mosaicml.com/blog/mpt-7b)
 * [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
-* [redpajama](https://www.together.xyz/blog/redpajama) 
-* [stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
+* [Redpajama](https://www.together.xyz/blog/redpajama) and [models](https://huggingface.co/togethercomputer)
+* [Stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
 See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM models
 
