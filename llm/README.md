@@ -9,6 +9,8 @@ Some other overviews:
 ## Data
 
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
+* [The Pile](https://pile.eleuther.ai/) `..a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.` [paper](https://arxiv.org/abs/2101.00027)
+* [The Stack](https://www.bigcode-project.org/docs/about/the-stack/) `...a 6.4 TB dataset of permissively licensed source code in 358 programming languages`
 
 ## LLM models
 
@@ -89,6 +91,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [baseten](https://www.baseten.co/about)
 * [huggingface](https://huggingface.co/)
 * [Databrick's Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) Dolly [models on HF](https://huggingface.co/databricks)
+* [Eleuther.ai](https://www.eleuther.ai/)
 * [Replicate](https://replicate.com/)
 * [Runwayml](https://runwayml.com/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
