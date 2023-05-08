@@ -8,7 +8,10 @@ Some other overviews:
 
 ## Data
 
+* [P3 (Public Pool of Prompts)](https://huggingface.co/datasets/bigscience/P3) `a collection of prompted English datasets covering a diverse set of NLP tasks`
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
+* [Natural Instructions](https://github.com/allenai/natural-instructions) Paper: [SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://arxiv.org/pdf/2204.07705.pdf)
+* [Raft](https://huggingface.co/datasets/ought/raft) `Real-world Annotated Few-shot Tasks (RAFT) dataset is an aggregation of English-language datasets found in the real world`
 * [The Pile](https://pile.eleuther.ai/) `..a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.` [paper](https://arxiv.org/abs/2101.00027)
 * [The Stack](https://www.bigcode-project.org/docs/about/the-stack/) `...a 6.4 TB dataset of permissively licensed source code in 358 programming languages`
 
@@ -92,6 +95,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [huggingface](https://huggingface.co/)
 * [Databrick's Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) Dolly [models on HF](https://huggingface.co/databricks)
 * [Eleuther.ai](https://www.eleuther.ai/)
+* [Ought](https://ought.org/)
 * [Replicate](https://replicate.com/)
 * [Runwayml](https://runwayml.com/)
 * [Stable Diffusion Training with MosaicML](https://github.com/mosaicml/diffusion)
@@ -103,6 +107,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 ## Foundational :) Papers
+* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) (2023)
 * [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) (2023)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
 * [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)[code](https://github.com/booydar/t5-experiments/tree/scaling-report) (2023)
