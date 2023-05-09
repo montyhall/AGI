@@ -95,6 +95,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [huggingface](https://huggingface.co/)
 * [Databrick's Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) Dolly [models on HF](https://huggingface.co/databricks)
 * [Eleuther.ai](https://www.eleuther.ai/)
+* [Lamini AI](https://lamini.ai/)
 * [Ought](https://ought.org/)
 * [Replicate](https://replicate.com/)
 * [Runwayml](https://runwayml.com/)
