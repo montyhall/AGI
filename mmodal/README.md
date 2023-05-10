@@ -1,23 +1,7 @@
 # Multi-Modal
 
-
-# Data
-
-# Tools
-
-# Backends
-
-# General Resources
-
-# Companies
-
-# Democratizaters
-
-# Reports / news
-
 # Papers (by no means complete)
 
-# Courses
+* [IMAGEBIND: One Embedding Space To Bind Them All](https://dl.fbaipublicfiles.com/imagebind/imagebind_final.pdf)
 
-# People
 
