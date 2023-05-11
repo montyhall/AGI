@@ -85,6 +85,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * pytorch-lightening
   - [comparisons](https://sebastianraschka.com/blog/2023/pytorch-faster.html) (pytorch, mixed precision, static graphs, deepspeed, fabric)
   - [Train 1T+ Model parameters](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html)
+* [skypilot](https://skypilot.readthedocs.io/en/latest/index.html)
 
 ## General Resources
 * [reentry](https://rentry.org/localmodelslinks)
