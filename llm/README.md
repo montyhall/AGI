@@ -113,6 +113,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 ## Foundational :) Papers
+* [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) 2023
 * [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) (2023)
 * [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) (2023)
 * [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf) (2023)
