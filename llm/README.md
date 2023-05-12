@@ -166,3 +166,6 @@ From researchers that showed us how to embed words ([Tomáš Mikolov](https://sc
 * [Nathan Benaich](https://www.nathanbenaich.com/) @Air Street Capital
 * [Sequoia](https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/?itm_medium=related-content&itm_source=sequoiacap.com)
 
+## Engineering Notes
+* [Cookbook for solving common problems in building GPT/LLM apps](https://bootcamp.uxdesign.cc/cookbook-for-solving-common-problems-in-building-gpt-llm-apps-93fcdbe3f44a)
+
