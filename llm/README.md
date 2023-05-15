@@ -81,6 +81,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 
 ## Backends
 * [deepspeed](https://github.com/microsoft/DeepSpeed)
+* [LocalAI](https://github.com/go-skynet/LocalAI)
 * [ray](https://www.ray.io/)
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm)
 * [modal](https://modal.com/)
@@ -92,6 +93,9 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 ## General Resources
 * [reentry](https://rentry.org/localmodelslinks)
 * [Distributed AI Research Institute](https://www.dair-institute.org/)
+
+## Security
+* [categories of attacks](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/) by Simon Willson (2023)
 
 ## Companies
 * [startups @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
@@ -115,6 +119,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 ## Foundational :) Papers
+* [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495) (2023)
 * [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) 2023
 * [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) (2023)
 * [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention](https://arxiv.org/abs/2303.16199) (2023)
