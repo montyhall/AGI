@@ -96,6 +96,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 
 ## Security
 * [categories of attacks](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/) by Simon Willson (2023)
+* [The AI Attack Surface Map v1.0](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/) (2023)
 
 ## Companies
 * [startups @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
