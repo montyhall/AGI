@@ -59,10 +59,11 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 ### Learning the objective function
 * [stackllama](https://huggingface.co/blog/stackllama)
 
-# Compositional
+# Compositional (Agents)
 * [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 * [Chameleon](https://github.com/lupantech/chameleon-llm)
 * [HuggingGPT](https://github.com/microsoft/JARVIS)
+* [HuggingFace Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents)
 
 ## Tools
 * [dalai](https://github.com/cocktailpeanut/dalai)
