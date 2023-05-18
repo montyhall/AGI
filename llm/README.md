@@ -121,6 +121,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 ## Foundational :) Papers
+* [Chain of Hindsight Aligns Language Models with Feedback](https://arxiv.org/abs/2302.02676) 2023
 * [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495) (2023)
 * [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) 2023
 * [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf) (2023)
