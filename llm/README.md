@@ -72,6 +72,9 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html)
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 
+## LLM + IR
+* [Pretrained models for information-retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval#retrieval-augmented-llm)
+
 ## Vector DBs
 * [Chroma](https://www.trychroma.com/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
