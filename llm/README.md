@@ -64,7 +64,8 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [Chameleon](https://github.com/lupantech/chameleon-llm)
 * [HuggingGPT](https://github.com/microsoft/JARVIS)
 * [HuggingFace Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents)
-
+* [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
+* 
 ## Tools
 * [dalai](https://github.com/cocktailpeanut/dalai)
 * [FUTUREPEDIA](https://www.futurepedia.io/)AI Tools dir updated daily
@@ -124,6 +125,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 ## Foundational :) Papers
+* [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) 2023
 * [Chain of Hindsight Aligns Language Models with Feedback](https://arxiv.org/abs/2302.02676) 2023
 * [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495) (2023)
 * [PaLM 2 Technical Report](https://ai.google/static/documents/palm2techreport.pdf) 2023
