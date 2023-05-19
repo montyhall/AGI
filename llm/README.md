@@ -153,8 +153,9 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712v2.pdf) (2023)
 
 ## NLP Courses
-* [Stanford's CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
-* [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html)
+* [Stanford's CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/) (2023)
+* [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html) (2023)
+* [Andrej Karpathy's Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [Ashish Vaswani's lecture on AIAYN @ Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=5vcj8kSwBCY) (2019)
 
 ## Prompt
