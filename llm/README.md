@@ -73,6 +73,7 @@ See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM mo
 * [FUTUREPEDIA](https://www.futurepedia.io/)AI Tools dir updated daily
 * [langchain](https://python.langchain.com/en/latest/)
 * [llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html)
+* [privateGPT](https://github.com/imartinez/privateGPT)
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 
 ## LLM + IR
