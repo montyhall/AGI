@@ -6,6 +6,9 @@
 Some other overviews:
 * [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide)
 
+## News
+<g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> [Guide to AI](https://nathanbenaich.substack.com/)
+
 ## Data
 
 * [P3 (Public Pool of Prompts)](https://huggingface.co/datasets/bigscience/P3) `a collection of prompted English datasets covering a diverse set of NLP tasks`
