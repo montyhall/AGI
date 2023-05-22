@@ -37,7 +37,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [Stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
 ## Probes
-* REMEDI: Mediating Knowledge in Language Model Representations [code](https://github.com/evandez/REMEDI) | [paper](https://arxiv.org/abs/2304.00740)
+* REMEDI: Mediating Knowledge in Language Model Representations [[code](https://github.com/evandez/REMEDI) | [paper](https://arxiv.org/abs/2304.00740)]
 
 ## Fine Tuning
 
