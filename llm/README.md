@@ -90,6 +90,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 
 ## Backends
 * [deepspeed](https://github.com/microsoft/DeepSpeed)
+* [MosaicML's LLM Foundry](https://github.com/mosaicml/llm-foundry)
 * [LocalAI](https://github.com/go-skynet/LocalAI)
 * [ray](https://www.ray.io/)
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm)
