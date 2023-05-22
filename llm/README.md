@@ -36,6 +36,9 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [Redpajama](https://www.together.xyz/blog/redpajama) and [models](https://huggingface.co/togethercomputer)
 * [Stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 
+## Probes
+* REMEDI: Mediating Knowledge in Language Model Representations [code](https://github.com/evandez/REMEDI) | [paper](https://arxiv.org/abs/2304.00740)
+
 ## Fine Tuning
 
 [Hyung Won Chung](https://scholar.google.com/citations?user=1CAlXvYAAAAJ&hl=en) in a talk recently at NYU nicely distinguished between fine tuning using MLE (what most people refer to as fine tuning -- a supervised learning task, or behavioral cloning in the language of RL) from learning the learning objective (RLHF). 
