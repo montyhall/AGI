@@ -118,6 +118,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [Databrick's Dolly](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm) Dolly [models on HF](https://huggingface.co/databricks)
 * [Eleuther.ai](https://www.eleuther.ai/)
 * [Lamini AI](https://lamini.ai/)
+* [LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) `collection of small-sized, efficient language models distilled from ChatGPT and trained on a large-scale dataset of 2.58M instructions` [paper](https://arxiv.org/abs/2304.14402)
 * [Ought](https://ought.org/)
 * [Replicate](https://replicate.com/)
 * [Runwayml](https://runwayml.com/)
