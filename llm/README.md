@@ -29,6 +29,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [NVIDIA's Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `adding programmable guardrails to LLM`
 * [H2O GPT](https://github.com/h2oai/h2ogpt) and [HF](https://huggingface.co/h2oai) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 * [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights. [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
+* [LIMA](https://arxiv.org/pdf/2305.11206.pdf)
 * [lit-llama](https://github.com/Lightning-AI/lit-llama) Independent implementation of LLaMA that is fully open source under the [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 * [MosaicML's MPT](https://github.com/mosaicml/llm-foundry) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
  [blog](https://www.mosaicml.com/blog/mpt-7b)
@@ -134,6 +135,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [On the Opportunities and Risks of Foundation Models](https://crfm.stanford.edu/report.html)
 
 ## Foundational :) Papers
+* [LIMA: Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
 * [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) 2023
 * [Chain of Hindsight Aligns Language Models with Feedback](https://arxiv.org/abs/2302.02676) 2023
 * [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495) (2023)
