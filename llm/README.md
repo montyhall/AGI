@@ -86,6 +86,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 
 ## Vector DBs
 * [Chroma](https://www.trychroma.com/)
+* [Cohere Rerank](https://txt.cohere.com/rerank/)
 * [FAISS](https://github.com/facebookresearch/faiss) (were doing this way back)
 * [Milvus](https://milvus.io/)
 * [Pinecone](https://www.pinecone.io/) <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> 2023-05-01 [Pinecone drops $100M investment on $750M valuation](https://techcrunch.com/2023/04/27/pinecone-drops-100m-investment-on-750m-valuation-as-vector-database-demand-grows/?utm_source=tldrfounders)
@@ -111,7 +112,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 ## Security
 * [categories of attacks](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/) by Simon Willson (2023)
 * [The AI Attack Surface Map v1.0](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0/) (2023)
-
+* [Arthur Shield](https://www.arthur.ai/blog/announcing-arthur-shield-the-first-firewall-for-llms)
 ## Companies
 * [startups @builtwithgenai](https://airtable.com/shr6nfE9FOHp17IjG/tblL3ekHZfkm3p6YT)
 * [cohere](https://cohere.com/)
