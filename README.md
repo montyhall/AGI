@@ -30,6 +30,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 * [CIO vision 2025: Bridging the gap between BI and AI](https://www.databricks.com/wp-content/uploads/2022/09/CIO-Vision-2025-final.pdf)
 * [Navigating the High Cost of AI Compute](https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/)
-
+* [The New Generative AI Infra Stack](https://medium.com/cowboy-ventures/the-new-infra-stack-for-generative-ai-9db8f294dc3f)
+* 
 # Regulation 
 * [EU's Laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206&mc_cid=c8c129ac99&mc_eid=7ef15c76ca) 2021-04-21
