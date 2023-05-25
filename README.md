@@ -33,4 +33,5 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 * [The New Generative AI Infra Stack](https://medium.com/cowboy-ventures/the-new-infra-stack-for-generative-ai-9db8f294dc3f)
 * 
 # Regulation 
+* [Transcript: Senate Judiciary Subcommittee Hearing on Oversight of AI](https://techpolicy.press/transcript-senate-judiciary-subcommittee-hearing-on-oversight-of-ai/) 2023-05-16
 * [EU's Laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative acts](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206&mc_cid=c8c129ac99&mc_eid=7ef15c76ca) 2021-04-21
