@@ -67,6 +67,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 ## Compositional (Agents)
 * [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT)
 * [Chameleon](https://github.com/lupantech/chameleon-llm)
+* [Gorilla](https://gorilla.cs.berkeley.edu/)
 * [HuggingGPT](https://github.com/microsoft/JARVIS)
 * [HuggingFace Transformers Agent](https://huggingface.co/docs/transformers/transformers_agents)
 * [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
