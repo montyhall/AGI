@@ -25,7 +25,8 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [Bloom](https://huggingface.co/bigscience/bloom)
   - [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [Petals](https://github.com/bigscience-workshop/petals)
-* [Flan](https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html)
+* [Falcon] [paper](https://falconllm.tii.ae/Falcon_LLM_RefinedWeb.pdf) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+* [Flan](https://huggingface.co/tiiuae) (https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html) 
 * [NVIDIA's Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `adding programmable guardrails to LLM`
 * [H2O GPT](https://github.com/h2oai/h2ogpt) and [HF](https://huggingface.co/h2oai) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 * [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights. [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
