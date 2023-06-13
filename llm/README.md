@@ -80,6 +80,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [FUTUREPEDIA](https://www.futurepedia.io/)AI Tools dir updated daily
 * [langchain](https://python.langchain.com/en/latest/)
 * [llamaindex](https://gpt-index.readthedocs.io/en/latest/index.html)
+* [OpenLLM](https://github.com/bentoml/OpenLLM)
 * [privateGPT](https://github.com/imartinez/privateGPT)
 * [Semantic Kernel](https://github.com/microsoft/semantic-kernel) [hello sk](https://devblogs.microsoft.com/semantic-kernel/hello-world/)
 * [stack-ai](https://www.stack-ai.com/)
