@@ -20,8 +20,13 @@ Some other overviews:
 
 ## LLM models
 
-See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Another [here](https://github.com/Hannibal046/Awesome-LLM). See [here](https://github.com/eugeneyan/open-llms) for commercial license LLM models
+### Set and Rankings
+* [LLMs on Wikipedia](https://en.wikipedia.org/wiki/Large_language_model)
+* [List maintained by Awesome LLM](https://github.com/Hannibal046/Awesome-LLM). 
+* [commercial license LLM models](https://github.com/eugeneyan/open-llms)
+* [Huggingface Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
+### Models
 * [Bloom](https://huggingface.co/bigscience/bloom)
   - [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [Petals](https://github.com/bigscience-workshop/petals)
