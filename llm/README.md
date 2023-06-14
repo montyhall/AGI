@@ -57,6 +57,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [LLaMa-Adapter](https://github.com/zrrskywalker/llama-adapter)
 * [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 * [vicuna](https://vicuna.lmsys.org/)
+* [PL's Lit-Parrot](https://github.com/Lightning-AI/Lit-Parrot)
 * pytorch tutorials:
   - [Understanding PEFT of LLMs: From Prefix Tuning to LLaMA-Adapters](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
   - [PEFT with Lora](https://lightning.ai/pages/community/tutorial/lora-llm/)
@@ -105,6 +106,7 @@ See [list](https://en.wikipedia.org/wiki/Large_language_model) on Wikipedia. Ano
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm)
 * [modal](https://modal.com/)
 * pytorch-lightening
+  - [Lit-Parrot](https://github.com/Lightning-AI/Lit-Parrot)
   - [comparisons](https://sebastianraschka.com/blog/2023/pytorch-faster.html) (pytorch, mixed precision, static graphs, deepspeed, fabric)
   - [Train 1T+ Model parameters](https://lightning.ai/docs/pytorch/stable/advanced/model_parallel.html)
 * [skypilot](https://skypilot.readthedocs.io/en/latest/index.html)
