@@ -43,6 +43,7 @@ Some other overviews:
 * [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [Redpajama](https://www.together.xyz/blog/redpajama) and [models](https://huggingface.co/togethercomputer)
 * [Stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
+* [vLLM](https://github.com/vllm-project/vllm)
 
 ## Probes
 * REMEDI: Mediating Knowledge in Language Model Representations [[code](https://github.com/evandez/REMEDI) | [paper](https://arxiv.org/abs/2304.00740)]
