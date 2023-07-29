@@ -47,7 +47,7 @@ Some other overviews:
 * [vLLM](https://github.com/vllm-project/vllm) Easy, fast, and cheap LLM serving 
 
 ## LLMOps
-# [LMFlow](https://optimalscale.github.io/LMFlow/index.html)
+* [LMFlow](https://optimalscale.github.io/LMFlow/index.html)
 
 ## Probes
 * REMEDI: Mediating Knowledge in Language Model Representations [[code](https://github.com/evandez/REMEDI) | [paper](https://arxiv.org/abs/2304.00740)]
