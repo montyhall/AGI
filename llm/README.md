@@ -49,6 +49,11 @@ Some other overviews:
 ## LLMOps
 * [LMFlow](https://optimalscale.github.io/LMFlow/index.html)
 
+## Apps
+### Code writing
+### API calls
+* [Gorilla](https://github.com/ShishirPatil/gorilla)
+  
 ## Probes
 * REMEDI: Mediating Knowledge in Language Model Representations [[code](https://github.com/evandez/REMEDI) | [paper](https://arxiv.org/abs/2304.00740)]
 
