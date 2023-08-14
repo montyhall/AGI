@@ -27,6 +27,7 @@ Some other overviews:
 * [Huggingface Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ### Models
+* [AzureChatGPT](https://news.ycombinator.com/item?id=37112741). Taken down
 * [Bloom](https://huggingface.co/bigscience/bloom)
   - [Bloom-LORA](https://github.com/linhduongtuan/BLOOM-LORA)
   - [Petals](https://github.com/bigscience-workshop/petals)
