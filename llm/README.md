@@ -183,6 +183,9 @@ Some other overviews:
 * [Language Models are Few-Shot Learners GPT3](https://arxiv.org/pdf/2005.14165.pdf) (2020)
 * [Language Models are Unsupervised Multitask Learners GPT2](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (2018)
 
+## Other notable papers
+ * [SYMBOL TUNING IMPROVES IN-CONTEXT LEARNING IN LANGUAGE MODELS](https://arxiv.org/pdf/2305.08298.pdf)
+ * 
 ### Surveys
 * [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712v2.pdf) (2023)
 
