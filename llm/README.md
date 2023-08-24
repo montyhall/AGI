@@ -11,6 +11,7 @@ Some other overviews:
 
 ## Data
 
+* [DOLMA](https://huggingface.co/datasets/allenai/dolma)
 * [P3 (Public Pool of Prompts)](https://huggingface.co/datasets/bigscience/P3) `a collection of prompted English datasets covering a diverse set of NLP tasks`
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 * [Natural Instructions](https://github.com/allenai/natural-instructions) Paper: [SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://arxiv.org/pdf/2204.07705.pdf)
