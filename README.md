@@ -12,6 +12,7 @@ Resources I have found useful in my journey of [AGI](https://knowyourmeme.com/me
 
 * [Stanford's HELM](https://crfm.stanford.edu/helm/latest/) Holistic Evaluation of Language Models (HELM) is a living benchmark that aims to improve the transparency of language models. [paper](https://arxiv.org/pdf/2211.09110.pdf)
 * [A Cookbook of Self-Supervised Learning](https://arxiv.org/pdf/2304.12210.pdf)
+* [Ecosystem graphs](https://crfm.stanford.edu/ecosystem-graphs/) `framework to document the foundation models ecosystem, namely both the assets (datasets, models, and applications) and their relationships.`
 
 # News
 <g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">💥</g-emoji> 2023-05-14:  PCAST Working Group on Generative AI Invites Public Input [here](https://terrytao.wordpress.com/2023/05/13/pcast-working-group-on-generative-ai-invites-public-input/)
