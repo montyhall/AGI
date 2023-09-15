@@ -16,6 +16,8 @@ Some other overviews:
 * [P3 (Public Pool of Prompts)](https://huggingface.co/datasets/bigscience/P3) `a collection of prompted English datasets covering a diverse set of NLP tasks`
 * [chinchilla's wild implications](https://www.lesswrong.com/posts/6Fpvch8RR29qLEWNH/chinchilla-s-wild-implications#fn1trot6ka6e2)
 * [Harmful Behavior](https://arxiv.org/pdf/2307.15043.pdf)
+* [MADLAD-400: A Multilingual And Document-Level Large Audited Dataset
+](https://arxiv.org/abs/2309.04662)
 * [Natural Instructions](https://github.com/allenai/natural-instructions) Paper: [SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://arxiv.org/pdf/2204.07705.pdf)
 * [Raft](https://huggingface.co/datasets/ought/raft) `Real-world Annotated Few-shot Tasks (RAFT) dataset is an aggregation of English-language datasets found in the real world`
 * [The Pile](https://pile.eleuther.ai/) `..a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.` [paper](https://arxiv.org/abs/2101.00027)
