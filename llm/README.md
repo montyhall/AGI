@@ -49,6 +49,7 @@ Some other overviews:
  [blog](https://www.mosaicml.com/blog/mpt-7b)
 * [Orca](https://arxiv.org/abs/2306.02707)
 * [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
+* [persimmon-8b](https://www.adept.ai/blog/persimmon-8b)
 * [Redpajama](https://www.together.xyz/blog/redpajama) and [models](https://huggingface.co/togethercomputer)
 * [Stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
 * [vLLM](https://github.com/vllm-project/vllm) Easy, fast, and cheap LLM serving 
