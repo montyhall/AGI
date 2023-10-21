@@ -1,5 +1,9 @@
 # Multi-Modal
 
+* [Fuyu-8B]()
+* [llava-vl](https://llava-vl.github.io/)
+* [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+  
 ## Papers (by no means complete)
 
 * [IMAGEBIND: One Embedding Space To Bind Them All](https://dl.fbaipublicfiles.com/imagebind/imagebind_final.pdf)
