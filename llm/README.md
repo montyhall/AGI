@@ -54,7 +54,8 @@ Some other overviews:
 * [persimmon-8b](https://www.adept.ai/blog/persimmon-8b)
 * [Redpajama](https://www.together.xyz/blog/redpajama) and [models](https://huggingface.co/togethercomputer)
 * [Stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
-* [vLLM](https://github.com/vllm-project/vllm) Easy, fast, and cheap LLM serving 
+* [vLLM](https://github.com/vllm-project/vllm) Easy, fast, and cheap LLM serving
+* [Zephyr-7B-α](https://huggingfaceh4-zephyr-chat.hf.space/)
 
 ## LLMOps
 * [LMFlow](https://optimalscale.github.io/LMFlow/index.html)
