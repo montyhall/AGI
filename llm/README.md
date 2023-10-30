@@ -21,6 +21,7 @@ Some other overviews:
 ](https://arxiv.org/abs/2309.04662)
 * [Natural Instructions](https://github.com/allenai/natural-instructions) Paper: [SUPER-NATURALINSTRUCTIONS: Generalization via Declarative Instructions on 1600+ NLP Tasks](https://arxiv.org/pdf/2204.07705.pdf)
 * [Raft](https://huggingface.co/datasets/ought/raft) `Real-world Annotated Few-shot Tasks (RAFT) dataset is an aggregation of English-language datasets found in the real world`
+* [Together](https://together.ai/blog/redpajama-data-v2) `30 trillion filtered and deduplicated tokens (100+ trillions raw) from 84 CommonCrawl dumps covering 5 languages, along with 40+ pre-computed data quality annotations that can be used for further filtering and weighting` 
 * [The Pile](https://pile.eleuther.ai/) `..a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together.` [paper](https://arxiv.org/abs/2101.00027)
 * [The Stack](https://www.bigcode-project.org/docs/about/the-stack/) `...a 6.4 TB dataset of permissively licensed source code in 358 programming languages`
 
