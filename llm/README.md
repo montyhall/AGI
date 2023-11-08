@@ -26,7 +26,6 @@ Some other overviews:
 * [The Stack](https://www.bigcode-project.org/docs/about/the-stack/) `...a 6.4 TB dataset of permissively licensed source code in 358 programming languages`
 
 ### Data Analysis
-
 * [WHAT’S IN MY BIG DATA?](https://arxiv.org/abs/2310.20707)
   
 ## LLM models
@@ -62,6 +61,12 @@ Some other overviews:
 * [vLLM](https://github.com/vllm-project/vllm) Easy, fast, and cheap LLM serving
 * [Zephyr-7B-α](https://huggingfaceh4-zephyr-chat.hf.space/)
 
+## Costs / Optimizations
+* [Transformer Inference Arithmetic](https://kipp.ly/transformer-inference-arithmetic/)
+* [Why GPT-3.5 is (mostly) cheaper than Llama 2](https://cursor.sh/blog/llama-inference)
+* [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE](https://www.semianalysis.com/p/gpt-4-architecture-infrastructure)
+* [Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/pdf/2302.01318.pdf)
+  
 ## LLMOps
 * [LMFlow](https://optimalscale.github.io/LMFlow/index.html)
 
