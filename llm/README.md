@@ -44,6 +44,7 @@ Some other overviews:
 * [Falcon](https://huggingface.co/tiiuae) | [paper](https://falconllm.tii.ae/Falcon_LLM_RefinedWeb.pdf) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 * [Flan](https://ai.googleblog.com/2021/10/introducing-flan-more-generalizable.html)
 * [Giraffe](https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/) `Long Context LLama2`
+* [Kyutai](https://kyutai.org/)
 * [NVIDIA's Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) `adding programmable guardrails to LLM`
 * [H2O GPT](https://github.com/h2oai/h2ogpt) and [HF](https://huggingface.co/h2oai) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 * [Llama](https://github.com/facebookresearch/llama) Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform) to get access to the weights. [A brief history of LLaMA models](https://agi-sphere.com/llama-models/)
@@ -53,6 +54,7 @@ Some other overviews:
 * [mistral-7b](https://mistral.ai/news/announcing-mistral-7b/)
 * [MosaicML's MPT](https://github.com/mosaicml/llm-foundry) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
  [blog](https://www.mosaicml.com/blog/mpt-7b)[![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+* [Nemotron-3 8B](https://developer.nvidia.com/blog/nvidia-ai-foundation-models-build-custom-enterprise-chatbots-and-co-pilots-with-production-ready-llms/)　`generative foundation models within its NeMo framework for entrprise applications`
 * [Orca](https://arxiv.org/abs/2306.02707)
 * [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
 * [persimmon-8b](https://www.adept.ai/blog/persimmon-8b)
