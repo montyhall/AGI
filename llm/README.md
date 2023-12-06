@@ -58,6 +58,7 @@ Some other overviews:
 * [Nemotron-3 8B](https://developer.nvidia.com/blog/nvidia-ai-foundation-models-build-custom-enterprise-chatbots-and-co-pilots-with-production-ready-llms/)　`generative foundation models within its NeMo framework for entrprise applications`
 * [Orca](https://arxiv.org/abs/2306.02707)
 * [OpenLLaMA: An Open Reproduction of LLaMA](https://github.com/openlm-research/open_llama)
+* [Perplexity’s pplx-7b-online and pplx-70b-online](https://blog.perplexity.ai/blog/introducing-pplx-online-llms)
 * [persimmon-8b](https://www.adept.ai/blog/persimmon-8b)
 * [Redpajama](https://www.together.xyz/blog/redpajama) and [models](https://huggingface.co/togethercomputer)
 * [Stable LLM](https://github.com/stability-AI/stableLM/) (cc license) (see [blog](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models))
