@@ -53,6 +53,7 @@ Some other overviews:
 * [LIMA](https://arxiv.org/pdf/2305.11206.pdf)
 * [lit-llama](https://github.com/Lightning-AI/lit-llama) Independent implementation of LLaMA that is fully open source under the [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 * [mistral-7b](https://mistral.ai/news/announcing-mistral-7b/)
+* [mistralai/Mixtral-8x7B-Instruct-v0.1](https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1)
 * [MosaicML's MPT](https://github.com/mosaicml/llm-foundry) [![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
  [blog](https://www.mosaicml.com/blog/mpt-7b)[![License Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 * [Nemotron-3 8B](https://developer.nvidia.com/blog/nvidia-ai-foundation-models-build-custom-enterprise-chatbots-and-co-pilots-with-production-ready-llms/)　`generative foundation models within its NeMo framework for entrprise applications`
