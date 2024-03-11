@@ -219,6 +219,7 @@ Some other overviews:
 * [Mohit Iyyer @UMASS](https://people.cs.umass.edu/~miyyer/cs685/schedule.html) (2023)
 * [Andrej Karpathy's Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [Ashish Vaswani's lecture on AIAYN @ Stanford CS224N: NLP with Deep Learning](https://www.youtube.com/watch?v=5vcj8kSwBCY) (2019)
+* [Maxime Labonne's LLM course](https://github.com/mlabonne/llm-course)
 
 ## Prompt
 * [promptbase](https://promptbase.com/)
