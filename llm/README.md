@@ -12,6 +12,7 @@ Some other overviews:
 ## Data
 
 * [CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages](https://arxiv.org/pdf/2309.09400.pdf)
+* [Fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 * [DOLMA](https://huggingface.co/datasets/allenai/dolma)
 * [Open License Corpus](https://huggingface.co/datasets/kernelmachine/open-license-corpus)
 * [P3 (Public Pool of Prompts)](https://huggingface.co/datasets/bigscience/P3) `a collection of prompted English datasets covering a diverse set of NLP tasks`
